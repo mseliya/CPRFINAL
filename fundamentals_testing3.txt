@@ -1,0 +1,37 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+CPR Project
+Type the character position within the string:
+4
+The character found at 4 position is 'P'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Measuring Strings demo ***
+Type a string (q - to quit):
+fundamental testing
+The length of 'fundamental testing' is 19 characters
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+*** Start of Copying Strings Demo ***
+Destination string is reset to empty
+Type the source string (q - to quit):
+copy source to destination
+New destination string is 'copy source to destination'
+
+Destination string is reset to empty
+Type the source string (q - to quit):
+empty
+New destination string is 'empty'
+
+Destination string is reset to empty
+Type the source string (q - to quit):
+q
+*** End of Copying Strings Demo ***
+
+C:\Users\16475\OneDrive\Desktop\FinalProject\CPRFinalProject\x64\Debug\CPRFinalProject.exe (process 5436) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
