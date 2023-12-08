@@ -1,0 +1,28 @@
+*** Start of Indexing Strings Demo ***
+
+Type not empty string (q - to quit):
+testingcase1
+Type the character position within the string:
+5
+The character found at 5 position is 'n'
+Type not empty string (q - to quit):
+hi
+Type the character position within the string:
+0
+The character found at 0 position is 'h'
+Type not empty string (q - to quit):
+example
+Type the character position within the string:
+-2
+Too big... Position reduced to max. available
+The character found at 6 position is 'e'
+Type not empty string (q - to quit):
+byeee!!!
+Type the character position within the string:
+7
+The character found at 7 position is '!'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+C:\Users\16475\OneDrive\Desktop\FinalProject\CPRFinalProject\x64\Debug\CPRFinalProject.exe (process 18284) exited with code 0.
