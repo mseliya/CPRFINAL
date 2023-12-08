@@ -1,0 +1,21 @@
+*** Start of Indexing Strings Demo ***
+Type not empty string (q - to quit):
+indexinfstring
+Type the character position within the string:
+5
+The character found at 5 position is 'i'
+Type not empty string (q - to quit):
+q
+*** End of Indexing Strings Demo ***
+
+*** Start of Measuring Strings demo ***
+Type a string (q - to quit):
+measuring strings
+The length of 'measuring strings' is 17 characters
+Type a string (q - to quit):
+q
+*** End of Measuring Strings Demo ***
+
+C:\Users\16475\OneDrive\Desktop\FinalProject\CPRFinalProject\x64\Debug\CPRFinalProject.exe (process 11948) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
